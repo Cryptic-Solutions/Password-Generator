@@ -12,4 +12,6 @@ sdcg65408
 
 Can be used for generating small wordlists.
 
+**I WILL UPLOAD THIS AND WORK ON IT WHEN I GET BORED**
+
 **I WILL IMPLEMENT CUSTOM FORMATTING LATER**
